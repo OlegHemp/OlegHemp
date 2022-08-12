@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
+</div>
+
 ### Hi there 👋
 
 [![codewars](https://www.codewars.com/users/OlegHemp/badges/large)](https://www.codewars.com/users/OlegHemp)  
