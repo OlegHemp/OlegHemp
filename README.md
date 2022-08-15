@@ -11,7 +11,7 @@
   
 ### About Me: ###  
 
-###### I'm a programmer of C and Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Russia. ######  
+###### I'm a programmer of C and Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Russia.  Learning technologies that I found interesting.######  
 ---
 
 ### :hammer_and_wrench: Languages and Tools : ###
